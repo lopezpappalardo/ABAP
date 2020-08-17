@@ -1,0 +1,5 @@
+Se debe entrar a la SE11, ejecutar una consulta, y estando en la vista "clásica" 
+poner /H en la caja de comandos. Luego dar doble clic sobre un registro y ahí 
+podremos editar el valor de la variable code para así hacer la acción que necesitamos.
+En el caso que lo anterior no funcione, el lugar donde poner el break es la línea 33 
+del include LSETBF01.
