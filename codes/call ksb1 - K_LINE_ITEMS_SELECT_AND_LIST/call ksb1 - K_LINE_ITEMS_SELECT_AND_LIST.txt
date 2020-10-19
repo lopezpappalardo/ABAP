@@ -1,0 +1,4 @@
+Cuando queremos llamar a la KSB1 desde por ejemplo un ALV, y pasarle parámetros que se encuentran bajo
+la opción "Otros criterios de selección". La mejor manera es usar la siguiente función estandar:
+K_LINE_ITEMS_SELECT_AND_LIST. Es relativamente sencilla de llamar. Sin embargo, poniendo un break en la
+llamada del reporte RKAEP000 podremos ver exactamente cómo se llena para el caso que nos interese.
